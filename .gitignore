@@ -26,3 +26,13 @@
 *.jpg
 *.jpeg
 
+
+# Microcontroller specific
+*.hex
+*.elf
+*.bin
+
+# Arduino
+build/
+.arduino/
+

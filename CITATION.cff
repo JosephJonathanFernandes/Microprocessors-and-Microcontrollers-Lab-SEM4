@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Pereira"
+  given-names: "Alex Joaquim"
+title: "Microprocessors and Microcontrollers Lab (CE470) Portfolio"
+version: 1.0.0
+date-released: 2024-12-16
+url: "https://github.com/yourusername/Microprocessors-and-Microcontrollers-Lab-SEM4"
+type: software
+keywords:
+  - assembly
+  - nasm
+  - arduino
+  - microprocessors
+  - education
